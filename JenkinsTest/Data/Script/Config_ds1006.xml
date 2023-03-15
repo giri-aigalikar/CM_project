@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PortConfigurations xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <MAPortConfig>
+        <ProjectDir>%YourProject%</ProjectDir>
+        <Platform>ds1006</Platform>
+        <Hostname>localhost/ds1006</Hostname>
+        <CMPath>src/CarMaker.x86</CMPath>
+    </MAPortConfig>
+</PortConfigurations>

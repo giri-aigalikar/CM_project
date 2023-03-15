@@ -1,0 +1,25 @@
+#INFOFILE1.1 - Do not remove this line!
+DrivMan.OW.Active = 1
+DrivMan.OW.Quantities = Time Brake User1 User2
+DrivMan.OW.FName = Test_PT.csv
+DrivMan.OW.StartGearNo = 1
+DrivMan.OW.StartVelocity = 10
+DrivMan.OW.GasMax = 0.5
+DrivMan.OW.RefCh = Time
+DrivMan.OW.ConsiderRoadSigns = 0
+DrivMan.OW.sRoute.Offset = 0
+DrivMan.OW.Time.Name = Time
+DrivMan.OW.Time.Factor = 1.0
+DrivMan.OW.Time.LimitLow = 1
+DrivMan.OW.Time.LimitHigh = 180
+DrivMan.OW.Brake.Name = Brake
+DrivMan.OW.Brake.Factor = 1.0
+DrivMan.OW.Brake.Offset = 0.0
+DrivMan.OW.User1.Name = PT.WRR.Trq_Drive
+DrivMan.OW.User1.UAQ = PT.WRR.Trq_Drive
+DrivMan.OW.User1.Factor = 1.0
+DrivMan.OW.User1.Offset = 0.0
+DrivMan.OW.User2.Name = PT.WRL.Trq_Drive
+DrivMan.OW.User2.UAQ = PT.WRL.Trq_Drive
+DrivMan.OW.User2.Factor = 1.0
+DrivMan.OW.User2.Offset = 0.0

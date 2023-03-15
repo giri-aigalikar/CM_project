@@ -1,0 +1,90 @@
+#INFOFILE1.1 - Do not remove this line!
+Att.dp2dv = 300.0
+Boo.ampli = 5
+Boo.runOut = 100
+Boo.type = Mechanical
+CircuitConfig = X
+Cyl_f.pv.mapping:
+	0 0.0
+	5 0.2
+	10 0.39
+	15 0.56
+	20 0.72
+	25 0.87
+	40 1.28
+	60 1.75
+	80 2.15
+	200 3.84
+Cyl_r.pv.mapping:
+	0 0.0
+	5 0.09
+	10 0.16
+	15 0.25
+	20 0.31
+	25 0.38
+	40 0.55
+	60 0.75
+	80 0.91
+	200 1.69
+Description:
+	ECU:
+	Car: DemoCar, a car of the Golf class
+	Hyd.-Model: IPG HydESP
+FileCreator = CarMaker 2015-02-06 11:17:16 - original creator: cs
+FileIdent = CarMaker-HydBrakeSystem-HydESP 3
+InCheckV_f.qOri = 6.0
+InCheckV_f.qPipe = 10.0
+InCheckV_r.qOri = 6.0
+InCheckV_r.qPipe = 10.0
+Inlet_f.deltaT.mapping:
+	0 0.01 0.01
+	100 0.002 0.01
+	200 0.001 0.01
+Inlet_f.qOri = 4.0
+Inlet_f.qPipe = 10.0
+Inlet_f.transfer.mapping:
+	0 1
+	0.5 0.4
+	1 0.0
+Inlet_r.qOri = 1.0
+Inlet_r.qPipe = 10.0
+LPA.pMax = 5.0
+LPA.pMin = 1.0
+LPA.vMax = 5.0
+LPAcheckV.qOri = 6.0
+LPAcheckV.qPipe = 20.0
+MC.area = 4.5
+MC.springConst = 0
+MC.springLoad = 0
+MC.xCompBore = 0
+Outlet_f.qOri = 4.0
+Outlet_f.qPipe = 20.0
+Outlet_r.qOri = 1.5
+Outlet_r.qPipe = 20.0
+PLim.pOpen = 180.0
+PLim.qOri = 5.0
+PLim.qPipe = 20.0
+PV.qOri = 5.0
+PV.qPipe = 20.0
+PVcheckV.qOri = 5.0
+PVcheckV.qPipe = 20.0
+Park.Torque_max = 0 0 1000 1000
+Pedal.ratio = 3.0
+Pist_f.area = 23.0
+Pist_f.rBrake = 0.1
+Pist_fl.ratio = 0.7
+Pist_fr.ratio = 0.7
+Pist_r.area = 11.0
+Pist_r.rBrake = 0.1
+Pist_rl.ratio = 0.7
+Pist_rr.ratio = 0.7
+Pump.Full = 0.1
+Pump.Zero = 0.1
+Pump.cLoss = 0.01
+Pump.genVmax = 8.0
+Pump.p63Prcnt = -0.5
+Pump.pEdge = -0.8
+Pump.qMax = 5.0
+SV.qOri = 10.0
+SV.qPipe = 20.0
+SuppL.dp2dv = 50.0

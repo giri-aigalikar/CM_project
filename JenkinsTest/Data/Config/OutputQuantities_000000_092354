@@ -1,0 +1,12 @@
+#INFOFILE1.1 - Do not remove this line!
+FileIdent = CarMaker-OutputQuantities 1
+DStore.dt.slow = 0.1
+DStore.dt.normal = 0.01
+DStore.dt.fast = 0.001
+DStore.Format = erg
+DStore.Quantities.normal:
+	Car.v
+	Time.Global
+	Car.ay
+DStore.Quantities.slow:
+DStore.Quantities.fast:

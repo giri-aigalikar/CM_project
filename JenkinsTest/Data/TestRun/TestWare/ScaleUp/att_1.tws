@@ -1,0 +1,19 @@
+#INFOFILE1.1 - Do not remove this line!
+FileIdent = CarMaker-TestWareTemplate 1.0
+FileCreator = CarMaker 10.2.2
+Description:
+Name = Scael_UP
+Image =
+OnlineDoc =
+LastChange = 2022-10-19 12:31:12 giri.aigalikar
+Mode = combine
+Step.0 = Settings
+Step.0.Name = Global Settings
+Step.1 = TestRun
+Step.1.Name = CutIn_Variations_ScaleTest
+Step.1.Param.0 = EgoStrPos NValue
+Step.1.Param.1 = EgoVel NValue
+Step.1.Var.0.Name = Variation 0
+Step.1.Var.0.Param = 10 10
+Step.1.Var.1.Name = Variation 1
+Step.1.Var.1.Param = {} {}

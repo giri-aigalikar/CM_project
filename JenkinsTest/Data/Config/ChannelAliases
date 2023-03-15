@@ -1,0 +1,18 @@
+# ChannelAliases
+# Multiple aliases have to be separated with whitespace
+# Example: Velocity = Speed	Vel
+Time            =
+Distance        =
+Velocity        =
+Gas             =
+Brake           =
+Clutch          =
+GearNo          =
+SelectorCtrl    =
+PT.WFL.Trq_Drive = 
+PT.WFR.Trq_Drive = 
+PT.WRL.Trq_Drive = 
+PT.WRR.Trq_Drive = 
+
+
+

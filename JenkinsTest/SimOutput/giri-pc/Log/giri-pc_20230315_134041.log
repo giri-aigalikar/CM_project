@@ -1,0 +1,9 @@
+APPLICATION	Car_Generic <insert.your.version.no> #2 (win64-10.2.2)
+COMPILED	giri.aigalikar@giri-pc 2023-03-15 13:39:08
+ 
+ERROR		Directory 'Data/Vehicle' doesn't exist
+		
+ERROR		FATAL ERROR - Application stopped
+		Eliminate the error and restart the application
+SHUTDOWN	CarMaker quick shutdown initiated
+

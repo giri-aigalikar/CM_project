@@ -1,0 +1,53 @@
+#INFOFILE1.1 - Do not remove this line!
+FileIdent = IPGRoad 10.0
+FileCreator = CarMaker 10.2.2
+LibVersion = 10.2.2
+Country = DEU
+nLinks = 1
+nJunctions = 0
+nObjects = 32
+nRoutes = 1
+RoadNetworkLength = 400
+BBox = -10 410 -13 13 -11 11
+Route.0.Length = 400
+RST.Unit = kmh
+RST = 50 100 -1 30 70 50 -1 -1
+Movie = 0.2 1 0.02 1.5 1.5 1 1
+PathMode = -1
+Link.0.ID = 0
+Link.0.Node0 = 0 0 0 0
+Link.0.Node1 = 400 0 0 0
+Link.0.RST = Undefined
+Link.0.RL.ID = 1
+Link.0.Seg.0.ID = 2
+Link.0.Seg.0.Type = Straight
+Link.0.Seg.0.Param = 400 0 0 0 0 0 0 0
+Link.0.LateralCenterLineOffset.ID = 8
+Link.0.LateralCenterLineOffset:
+	38 -1 0 0 0 2.5 -999 -999 -999
+	39 -1 0 1 0 2.5 -999 -999 -999
+Link.0.LaneSection.0.ID = 3
+Link.0.LaneSection.0.Start = 0
+Link.0.LaneSection.0.LaneL.0.ID = 6
+Link.0.LaneSection.0.LaneL.0 = 2 0.5 0.5 5 0 0 0
+Link.0.LaneSection.0.LaneR.0.ID = 7
+Link.0.LaneSection.0.LaneR.0 = 0 5 5 0 0 0 0
+Link.0.LaneSection.0.LaneR.0.ARP = 43 44 45 46 47 48
+Link.0.LaneSection.0.LaneR.1.ID = 9
+Link.0.LaneSection.0.LaneR.1 = 2 0.5 0.5 5 0 0 0
+LanePath.0 = 29 7 2 10 0.1 0.1
+Route.0.ID = 12
+Route.0.Name = Route
+Route.0.DrvPath.ID = 13
+Route.0.DrvPath:
+	29
+RL.1.RoadMarking.0.ID = 24 1
+RL.1.RoadMarking.0 = 0 0 0 1 -0.1 1 0.1 0 1 0 0 9 1 1 1 4 ""
+RL.1.RoadMarking.1.ID = 25 1
+RL.1.RoadMarking.1 = 0 0 0 1 0.1 -1 0.1 0 1 0 0 9 1 1 1 4 ""
+RL.1.Mount.0.ID = 4 1
+RL.1.Mount.0 = 163.544 0 -3.243 -1 1 1 0 0 0 0 2.4
+RL.1.Mount.0.0.ID = 5
+RL.1.Mount.0.0 = 0 2 0 0 0 0 0 98 1 1 ExitHighway O Test 0 0 0 - - "" 0 0 0 - - "" 0 0 0
+RL.1.Mount.0.0.Size = 0.949999988079071 3.45000004768372
+MaxUsedObjId = 48

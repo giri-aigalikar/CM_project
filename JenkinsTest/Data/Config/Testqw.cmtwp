@@ -1,0 +1,12 @@
+#INFOFILE1.1 - Do not remove this line!
+FileIdent = CarMaker-TestWareParams 1.0
+FileCreator = CarMaker 10.2.2
+
+Package.Name = ScaleUp
+
+Test.0.Name = UNNAMED TEST
+Test.0.Mode = combine
+Test.0.Selected = 0
+Test.0.Filter.Active = 0
+Test.0.Filter.Rules:
+
