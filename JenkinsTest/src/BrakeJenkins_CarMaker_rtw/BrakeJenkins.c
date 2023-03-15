@@ -7,9 +7,9 @@
  *
  * Code generation for model "BrakeJenkins".
  *
- * Model version              : 1.17
+ * Model version              : 1.18
  * Simulink Coder version : 9.4 (R2020b) 29-Jul-2020
- * C source code generated on : Wed Mar 15 14:09:26 2023
+ * C source code generated on : Wed Mar 15 14:25:50 2023
  *
  * Target selection: CarMaker.tlc
  * Note: GRT includes extra infrastructure and instrumentation for prototyping
@@ -77,10 +77,10 @@ const cmBrakeOut BrakeJenkins_rtZcmBrakeOut = {
 
 /* Block parameters (default storage) */
 P_BrakeJenkins_T BrakeJenkins_P = {
-  /* Expression: 30
+  /* Expression: 15
    * Referenced by: '<Root>/Gain'
    */
-  30.0,
+  15.0,
 
   /* Expression: 0
    * Referenced by: '<S1>/Trq_DriveSrc_trg.d0'
