@@ -217,3 +217,5 @@ VhclOperator.MyVhclOperator_FMU.Tags =
 TireCPMod.MyTireCPMod_FMU = 1
 TireCPMod.MyTireCPMod_FMU.Info = MyTireCPMod_FMU
 TireCPMod.MyTireCPMod_FMU.Tags =
+Brake.BrakeJenkins = 1
+Brake.BrakeJenkins.Info = BrakeJenkins
