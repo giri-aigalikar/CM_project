@@ -1,0 +1,25 @@
+#INFOFILE1.1 - Do not remove this line!
+FileIdent = CarMaker-Startup 1.0
+FileCreator = CarMaker 10.2.2
+TestRun = Examples/VehicleDynamics/Braking/BrakingMuSplit
+TmpFName =
+User = giri.aigalikar
+Variation = Variation 2-2
+Instance = 000011
+SimEnd = SimEnd_000011
+DumpDDict = 1
+ApoAvailable = 0
+SaveMode = 1
+msHistory = 0
+DataPools:
+	C:/IPG/carmaker/win64-10.2.2
+nv.Speed = 80
+nv.Brake = 1
+nv.Mue_left = 0.5
+nv.Mue_right = 1.0
+kv.TestRun\:Vehicle = Examples/Demo_Audi_R8
+kv.TestRun\:Tire.0 = Examples/RT_295_30R18
+kv.TestRun\:Tire.1 = Examples/RT_295_30R18
+kv.TestRun\:Tire.2 = Examples/RT_295_30R18
+kv.TestRun\:Tire.3 = Examples/RT_295_30R18
+kv.SimParameters\:DStore.OutPath = SimOutput/%r/%D/%t_%T%?_s_000011
