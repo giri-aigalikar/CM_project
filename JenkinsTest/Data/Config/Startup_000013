@@ -9,8 +9,8 @@ Instance = 000013
 SimEnd = SimEnd_000013
 DumpDDict = 1
 ApoAvailable = 0
-SaveMode = 1
-msHistory = 0
+SaveMode = 2
+msHistory = -1
 DataPools:
 	C:/IPG/carmaker/win64-10.2.2
 nv.Speed = 50
