@@ -1,6 +1,6 @@
 #INFOFILE1.1 - Do not remove this line!
-TestRig.StartTime1970Str = 2023-03-15 13:41:29
-TestRig.StartTime1970 = 1678902089
+TestRig.StartTime1970Str = 2023-03-20 15:29:36
+TestRig.StartTime1970 = 1679340576
 CarMaker.Library = win64 10.2.2 #820
 CarMaker.Compiled = fh@hpc.ipg 2022-04-26 11:39:26
 CarMaker.CompileFlags:
@@ -240,8 +240,8 @@ TrfFollow.Models:
 TrfLaneChange.Models:
 	HDMbased            	v1 (compat. v1)
 Application.Version = Car_Generic <insert.your.version.no>
-Application.BuildVersion = 2
-Application.CompileTime = 2023-03-15 13:39:08
+Application.BuildVersion = 15
+Application.CompileTime = 2023-03-20 15:25:15
 Application.CompileUser = giri.aigalikar
 Application.CompileSystem = giri-pc
 Application.CompileFlags:
@@ -251,7 +251,7 @@ Application.CompileFlags:
 	-D__USE_MINGW_ANSI_STDIO
 
 Application.Libs:
-	libBrakeJenkins_win64.a	BrakeJenkins win64 1.0 2023-03-15
+	libBrakeJenkins_win64.a	BrakeJenkins win64 1.0 2023-03-20
 	libcar.a	CarMaker-Car win64 10.2.2 2022-04-26
 	libcarmaker.a	CarMaker win64 10.2.2 2022-04-26
 	libipgdriver.a	IPGDriver win64 10.2 2021-10-21

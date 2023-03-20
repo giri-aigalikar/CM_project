@@ -11,3 +11,13 @@ SYSTEM_START	-	giri-pc	giri-pc	2023-03-15 13:41:29
 
 SYSTEM_INFO	Car_Generic <insert.your.version.no> #2	giri.aigalikar@giri-pc 2023-03-15 13:39:08	(10.2.2 fh@hpc.ipg 2022-04-26 11:39:26)
 SIM	1678902090	giri-pc			0	0	0
+
+
+SYSTEM_START	-	giri-pc	giri-pc	2023-03-20 15:29:36
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #15	giri.aigalikar@giri-pc 2023-03-20 15:25:15	(10.2.2 fh@hpc.ipg 2022-04-26 11:39:26)
+SIM	1679340576	giri-pc			0	0	0
+SIM	1679340587	giri-pc	giri.aigalikar	Examples/VehicleDynamics/Braking/BrakingMuSplit	0	33.051	9.48607e-005
+SIM	1679340607	giri-pc	giri.aigalikar	Examples/VehicleDynamics/Braking/BrakingMuSplit	0	5.791	8.91848e-005
+SIM	1679340628	giri-pc	giri.aigalikar	Examples/VehicleDynamics/Braking/BrakingMuSplit	0	35.307	698.012
