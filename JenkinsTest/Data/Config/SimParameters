@@ -2,4 +2,4 @@
 FileIdent = CarMaker-SimParameters 3
 
 
-DStore.OutPath = %o/%T%?_s
+DStore.OutPath = %o/%T

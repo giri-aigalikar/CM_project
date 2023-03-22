@@ -15,4 +15,4 @@ DataPools:
 	C:/IPG/carmaker/win64-10.2.2
 nv.LatAccel = 3
 nv.Speed = 80
-kv.SimParameters\:DStore.OutPath = SimOutput/%r/%D/%t_%T%?_s_000005
+kv.SimParameters\:DStore.OutPath = SimOutput/%T_000005
