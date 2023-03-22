@@ -1,0 +1,16 @@
+APPLICATION	Car_Generic <insert.your.version.no> #32 (win64-10.2.2)
+COMPILED	giri.aigalikar@giri-pc 2023-03-22 15:33:52
+ 
+FIRST_INIT	(internal default used)	2023-03-22 15:55:09
+TIME	0.000
+SIM_END			0s	0m
+IDLE	15:55:09
+SIM_START	Examples/VehicleDynamics/Handling/LaneChange_AMS	2023-03-22 15:55:10
+TIME	0.000
+SIMULATE	Examples/VehicleDynamics/Handling/LaneChange_AMS
+
+TIME	25.369
+SIM_END		Examples/VehicleDynamics/Handling/LaneChange_AMS	25.365s	413.818m
+TIME	28.262
+SHUTDOWN	CarMaker quick shutdown initiated
+

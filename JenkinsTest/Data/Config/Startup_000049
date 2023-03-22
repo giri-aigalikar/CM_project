@@ -1,0 +1,24 @@
+#INFOFILE1.1 - Do not remove this line!
+FileIdent = CarMaker-Startup 1.0
+FileCreator = CarMaker 10.2.2
+TestRun = Examples/VehicleDynamics/Handling/LaneChange_ADAC
+TmpFName =
+User = giri.aigalikar
+Variation = Variation 3
+Instance = 000049
+SimEnd = SimEnd_000049
+DumpDDict = 1
+ApoAvailable = 0
+SaveMode = 2
+msHistory = -1
+DataPools:
+	C:/IPG/carmaker/win64-10.2.2
+nv.PylonShiftBkCoef = 0
+nv.PylonShiftFdCoef = 0.0
+nv.Speed = 90
+nv.Width_1stSectLast = 7.2388
+nv.Lateral_Offset_Width = 4.5
+nv.Lateral_Offset1 = 6.0694
+nv.Lateral_Offset2 = 3.5694
+kv.TestRun\:Vehicle = Examples/Demo_Peugeot_207CC
+kv.SimParameters\:DStore.OutPath = SimOutput/%f%T_000049

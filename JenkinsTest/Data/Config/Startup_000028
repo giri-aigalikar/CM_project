@@ -1,0 +1,24 @@
+#INFOFILE1.1 - Do not remove this line!
+FileIdent = CarMaker-Startup 1.0
+FileCreator = CarMaker 10.2.2
+TestRun = Examples/VehicleDynamics/Handling/LaneChange_VDA
+TmpFName =
+User = giri.aigalikar
+Variation = Variation 4
+Instance = 000028
+SimEnd = SimEnd_000028
+DumpDDict = 1
+ApoAvailable = 0
+SaveMode = 2
+msHistory = -1
+DataPools:
+	C:/IPG/carmaker/win64-10.2.2
+nv.PylonShiftBkCoef = 0.15
+nv.PylonShiftFdCoef = 0.25
+nv.Width_1stSect = 2.2388000000000003
+nv.Width_2ndSect = 2.808
+nv.Width_3rdSect = 3.0
+nv.Lateral_Offset = 3.5234
+nv.Speed = 70
+kv.TestRun\:Vehicle = Examples/Demo_Peugeot_207CC
+kv.SimParameters\:DStore.OutPath = SimOutput/%f%T_000028
