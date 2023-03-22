@@ -9,7 +9,7 @@
  *
  * Model version              : 1.18
  * Simulink Coder version : 9.4 (R2020b) 29-Jul-2020
- * C source code generated on : Wed Mar 22 11:21:03 2023
+ * C source code generated on : Wed Mar 22 13:02:34 2023
  *
  * Target selection: CarMaker.tlc
  * Note: GRT includes extra infrastructure and instrumentation for prototyping
