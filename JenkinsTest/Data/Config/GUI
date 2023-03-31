@@ -1,5 +1,5 @@
 #INFOFILE1.1 - Do not remove this line!
-FileIdent = GUI-Config 10.0
+FileIdent = GUI-Config 11.0
 CM.Exe = src/CarMaker.win64.exe
 CM.Args =
 CM.Exe.History:
