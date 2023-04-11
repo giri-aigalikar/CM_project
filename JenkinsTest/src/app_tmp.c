@@ -37,7 +37,7 @@ static const char *CompileLibs[] = {
     /* C:/IPG/carmaker/win64-10.2.2/lib/libipgdriver.a */
     /* C:/IPG/carmaker/win64-10.2.2/lib/libipgroad.a */
     /* C:/IPG/carmaker/win64-10.2.2/lib/libipgtire.a */
-    "libBrakeJenkins_win64.a	BrakeJenkins win64 1.0 2023-03-31",
+    "libBrakeJenkins_win64.a	BrakeJenkins win64 1.0 2023-04-11",
     "libcar.a	CarMaker-Car win64 10.2.2 2022-04-26",
     "libcarmaker.a	CarMaker win64 10.2.2 2022-04-26",
     "libipgdriver.a	IPGDriver win64 10.2 2021-10-21",
@@ -58,10 +58,10 @@ static const char *CompileFlags[] = {
 
 tAppStartInfo   AppStartInfo = {
     "Car_Generic <insert.your.version.no>",          /* App_Version         */
-    "41",          /* App_BuildVersion    */
+    "42",          /* App_BuildVersion    */
     "giri.aigalikar",     /* App_CompileUser     */
     "giri-pc",         /* App_CompileSystem   */
-    "2023-03-31 11:38:19",  /* App_CompileTime */
+    "2023-04-11 15:56:12",  /* App_CompileTime */
 
     CompileFlags,                /* App_CompileFlags  */
     CompileLibs,                 /* App_Libs          */
