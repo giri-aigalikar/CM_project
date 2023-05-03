@@ -122,6 +122,7 @@ DStore.Quantities.normal:
 	PwrS.Total
 	Sensor.Collision.Vhcl.Fr1.Count
 	Sensor.Collision.Vhcl.Fr1.ObjId
+	Sensor.FSpace.Front.TimeStamp
 	Sensor.Object.RadarL.relvTgt.NearPnt.ds_p
 	Steer.WhlAng
 	Time
